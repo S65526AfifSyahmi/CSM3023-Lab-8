@@ -1,0 +1,5 @@
+em\employee_management\JakartaRestConfiguration.class
+em\controller\EmployeeServlet.class
+em\model\Employee.class
+em\dao\EmployeeDAO.class
+em\employee_management\resources\JakartaEE10Resource.class

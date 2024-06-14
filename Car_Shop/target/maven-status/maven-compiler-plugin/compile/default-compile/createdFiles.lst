@@ -1,0 +1,4 @@
+com\cs\model\Car.class
+com\cs\dao\CarDAO.class
+com\cs\JakartaRestConfiguration.class
+com\cs\resources\JakartaEE10Resource.class
